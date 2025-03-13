@@ -23,7 +23,7 @@ Ensure you have the following installed on your system:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Atereoyinn/Gateley
-   cd <project_directory>
+   cd Gateley
    ```
 
 2. **Create a virtual environment (optional but recommended)**
