@@ -15,21 +15,21 @@ This project is a FastAPI-based web application designed to manage employee atte
 ## Prerequisites
 Ensure you have the following installed on your system:
 - Python 3.8+
-- PostgreSQL (recommended) or SQLite (for development)
-- A virtual environment tool (optional but recommended)
+- SQLite
+- A virtual environment tool 
 
 ## Installation
 
 1. **Clone the repository**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Atereoyinn/Gateley
    cd <project_directory>
    ```
 
 2. **Create a virtual environment (optional but recommended)**
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   source venv/bin/activate  
    ```
 
 3. **Install dependencies**
